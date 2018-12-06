@@ -10,7 +10,7 @@ let vm = new Vue({
   },
   destroyed: function() {
     // clearInterval(vm.$data.timer);
-    // console.log('stoped');
+    // console.log('stopped');
   }
 });
 
